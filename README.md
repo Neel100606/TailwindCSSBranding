@@ -4,4 +4,4 @@ This is a basic branding website created as a practice project while learning **
 
 ## 🛠 Technologies Used  
 - 🏗️ **HTML** - Structure of the website  
-- 🎨 **Tailwind CSS** - Styling and responsiveness 
+- 🎨 **Tailwind CSS** - Styling 
